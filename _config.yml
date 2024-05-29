@@ -25,10 +25,8 @@ author:
   name             : #"Hongru Zhao"
   pronouns         : # example: "she/her"  
   bio              : #"5th year PhD student at UMN"
-  location         : >
-495 Ford Hall\n
-University of Minnesota Minneapolis\n
-MN 55455
+  location         : |
+"495 Ford Hall\nUniversity of Minnesota Minneapolis\nMN 55455"
   employer         : 
   uri              : # URL
   email            : "zhao1118@umn.edu"
