@@ -13,9 +13,7 @@ I am a fifth year PhD student of School of statistics at University of Minnesota
 
 Contact:
 
-495 Ford Hall Building 
-
-224 Church St SE, Minneapolis, MN 55455
+495 Ford Hall Building \n224 Church St SE, Minneapolis, MN 55455
 
 
 
