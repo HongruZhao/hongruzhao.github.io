@@ -25,10 +25,10 @@ author:
   name             : #"Hongru Zhao"
   pronouns         : # example: "she/her"  
   bio              : #"5th year PhD student at UMN"
-  location         : #"Minneapolis, MN, USA"
+  location         : "495 Ford Hall\\University of Minnesota\\Minneapolis, MN 55455"
   employer         : 
   uri              : # URL
-  email            : #"zhao1118@umn.edu"
+  email            : "zhao1118@umn.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
